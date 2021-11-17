@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+android/app/build.gradle: defaultConfig: minSdkVersion >= 19
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
